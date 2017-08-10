@@ -7,7 +7,7 @@
     "jade": "^0.30.0",
     "socket.io": "^0.9.14"
   },
-  "author": "Donald Derek Haddad <ddh@mit.edu>",
+  "author": "Rani BS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
